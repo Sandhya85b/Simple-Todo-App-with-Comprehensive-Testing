@@ -1,5 +1,4 @@
 
-
 # Simple Todo App with Jest Testing & GitHub Actions 🚀
 
 ## 📌 Project Overview
@@ -102,7 +101,3 @@ git remote add origin <repo_url>
 # Push to GitHub
 git push -u origin main
 ```
-
-
-
-
